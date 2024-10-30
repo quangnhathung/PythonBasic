@@ -1,0 +1,36 @@
+Thuật toán xuất các tập hợp con (subsets) của một tập hợp (set) có thể được thực hiện bằng nhiều cách, trong đó phương pháp đệ quy (recursion) là một trong những cách hiệu quả và trực quan nhất. Dưới đây là giải thích chi tiết về cách thuật toán này hoạt động.
+
+Các Khái Niệm Cơ Bản
+Tập hợp con: Là một tập hợp được tạo ra từ một tập hợp ban đầu, có thể bao gồm từ 0 đến tất cả các phần tử của tập hợp gốc.
+Đệ quy: Là một kỹ thuật lập trình trong đó một hàm gọi chính nó để giải quyết các bài toán nhỏ hơn.
+Thuật Toán Xuất Các Tập Hợp Con
+Để tìm tất cả các tập hợp con của một tập hợp, chúng ta có thể sử dụng phương pháp đệ quy như sau:
+
+Bắt đầu từ phần tử đầu tiên: Tại mỗi bước, chúng ta có hai lựa chọn cho mỗi phần tử trong tập hợp:
+
+Chọn phần tử: Thêm phần tử vào tập hợp con hiện tại.
+Không chọn phần tử: Giữ nguyên tập hợp con hiện tại mà không thêm phần tử.
+Gọi đệ quy: Dựa trên lựa chọn trên, chúng ta gọi lại hàm để xử lý phần tử tiếp theo trong tập hợp.
+
+Thêm tập hợp con hiện tại vào danh sách kết quả: Mỗi khi hàm được gọi, chúng ta sẽ lưu lại tập hợp con hiện tại (sao chép nó để không bị thay đổi trong các lần gọi đệ quy sau).
+
+Quay lui (Backtracking): Khi quay lại từ một cuộc gọi đệ quy (khi kết thúc xử lý một nhánh), chúng ta sẽ loại bỏ phần tử cuối cùng được thêm vào để tiếp tục kiểm tra nhánh khác.
+
+Cấu Trúc của Thuật Toán
+Phương thức chính f1
+Khởi tạo danh sách kết quả result.
+Gọi phương thức đệ quy f2 với các tham số ban đầu.
+Phương thức đệ quy f2
+Tham số:
+
+nums: Tập hợp ban đầu.
+index: Chỉ số hiện tại của phần tử trong tập hợp.
+TaphopHientai: Tập hợp con hiện tại.
+result: Danh sách để lưu tất cả các tập hợp con.
+Quy trình:
+
+Thêm bản sao của TaphopHientai vào result: Điều này cho phép lưu lại tập hợp con hiện tại.
+Vòng lặp qua các phần tử từ index đến cuối:
+Thêm phần tử nums[i] vào TaphopHientai.
+Gọi lại f2 với index tăng lên (i + 1) để tiếp tục tạo tập hợp con từ phần tử tiếp theo.
+Quay lui: Loại bỏ phần tử cuối cùng trong TaphopHientai để chuẩn bị cho việc kiểm tra tập hợp con không có phần tử đó.
