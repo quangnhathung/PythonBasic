@@ -1,0 +1,26 @@
+[
+    {
+        "info": "100 150 125",
+        "Loại": "Tam giác thường",
+        "ChuVi": 375,
+        "DiệnTích": 6200.979635307634
+    },
+    {
+        "info": "80 120 100",
+        "Loại": "Tam giác thường",
+        "ChuVi": 300,
+        "DiệnTích": 3968.6269665968857
+    },
+    {
+        "info": "60 70 90",
+        "Loại": "Tam giác thường",
+        "ChuVi": 220,
+        "DiệnTích": 2097.617696340303
+    },
+    {
+        "info": "50 40 30",
+        "Loại": "Tam giác vuông",
+        "ChuVi": 120,
+        "DiệnTích": 600.0
+    }
+]

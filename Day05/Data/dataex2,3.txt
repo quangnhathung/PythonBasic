@@ -1,0 +1,8 @@
+Bài 2. Đọc dữ liệu từ file văn bản, đảo ngược các từ trong mỗi dòng và ghi kết quả vào file 
+văn bản.
+Yêu cầu:
+Tạo một file văn bản chứa các câu, mỗi câu nằm trên một dòng và có thể chứa nhiều 
+từ, các từ cách nhau bởi dấu cách.
+Viết một chương trình Python để đọc dữ liệu từ file, đảo ngược các từ trong mỗi câu 
+và ghi kết quả vào file khác.
+Xử lý lỗi: Bắt các ngoại lệ có thể xảy ra khi đọc file và xử lý chuỗi.
