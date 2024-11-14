@@ -1,0 +1,602 @@
+[
+    {
+        "Tên": "Hoàng Thị Hương",
+        "Tuổi": 21,
+        "Lớp": "11DHTH03",
+        "Điểm": 7.8
+    },
+    {
+        "Tên": "Phùng Đức Hòa",
+        "Tuổi": 19,
+        "Lớp": "13DHTH08",
+        "Điểm": 8.0
+    },
+    {
+        "Tên": "Phạm Quốc Khánh",
+        "Tuổi": 22,
+        "Lớp": "12DHTH01",
+        "Điểm": 7.0
+    },
+    {
+        "Tên": "Vũ Đức Tài",
+        "Tuổi": 20,
+        "Lớp": "14DHTH03",
+        "Điểm": 10.0
+    },
+    {
+        "Tên": "Phạm Bích Nguyệt",
+        "Tuổi": 20,
+        "Lớp": "10DHTH14",
+        "Điểm": 4.5
+    },
+    {
+        "Tên": "Vũ Đức Tài",
+        "Tuổi": 18,
+        "Lớp": "10DHTH13",
+        "Điểm": 6.0
+    },
+    {
+        "Tên": "Vương Quốc Bảo",
+        "Tuổi": 19,
+        "Lớp": "12DHTH05",
+        "Điểm": 6.0
+    },
+    {
+        "Tên": "Bùi Văn Nam",
+        "Tuổi": 22,
+        "Lớp": "11DHTH03",
+        "Điểm": 6.5
+    },
+    {
+        "Tên": "Nguyễn Văn An",
+        "Tuổi": 19,
+        "Lớp": "12DHTH05",
+        "Điểm": 5.0
+    },
+    {
+        "Tên": "Đặng Thị Lan",
+        "Tuổi": 20,
+        "Lớp": "11DHTH15",
+        "Điểm": 4.5
+    },
+    {
+        "Tên": "Nguyễn Văn An",
+        "Tuổi": 20,
+        "Lớp": "14DHTH03",
+        "Điểm": 9.0
+    },
+    {
+        "Tên": "Nguyễn Tiến Mạnh",
+        "Tuổi": 19,
+        "Lớp": "15DHTH04",
+        "Điểm": 10.0
+    },
+    {
+        "Tên": "Hoàng Thị Hương",
+        "Tuổi": 19,
+        "Lớp": "14DHTH09",
+        "Điểm": 7.3
+    },
+    {
+        "Tên": "Phùng Đức Hòa",
+        "Tuổi": 22,
+        "Lớp": "12DHTH06",
+        "Điểm": 6.2
+    },
+    {
+        "Tên": "Phạm Quốc Khánh",
+        "Tuổi": 18,
+        "Lớp": "14DHTH10",
+        "Điểm": 7.3
+    },
+    {
+        "Tên": "Nguyễn Tiến Mạnh",
+        "Tuổi": 22,
+        "Lớp": "14DHTH03",
+        "Điểm": 8.3
+    },
+    {
+        "Tên": "Hoàng Thị Hương",
+        "Tuổi": 22,
+        "Lớp": "13DHTH08",
+        "Điểm": 8.0
+    },
+    {
+        "Tên": "Đặng Thị Lan",
+        "Tuổi": 19,
+        "Lớp": "13DHTH07",
+        "Điểm": 7.8
+    },
+    {
+        "Tên": "Nguyễn Tiến Mạnh",
+        "Tuổi": 18,
+        "Lớp": "12DHTH01",
+        "Điểm": 10.0
+    },
+    {
+        "Tên": "Lý Thị Thanh",
+        "Tuổi": 20,
+        "Lớp": "11DHTH15",
+        "Điểm": 10.0
+    },
+    {
+        "Tên": "Phạm Quốc Khánh",
+        "Tuổi": 20,
+        "Lớp": "10DHTH01",
+        "Điểm": 8.3
+    },
+    {
+        "Tên": "Hoàng Thị Hương",
+        "Tuổi": 20,
+        "Lớp": "14DHTH10",
+        "Điểm": 7.0
+    },
+    {
+        "Tên": "Lê Minh Phương",
+        "Tuổi": 22,
+        "Lớp": "13DHTH02",
+        "Điểm": 7.0
+    },
+    {
+        "Tên": "Nguyễn Văn An",
+        "Tuổi": 18,
+        "Lớp": "11DHTH03",
+        "Điểm": 10.0
+    },
+    {
+        "Tên": "Đặng Thị Lan",
+        "Tuổi": 20,
+        "Lớp": "10DHTH13",
+        "Điểm": 5.0
+    },
+    {
+        "Tên": "Hoàng Thị Hương",
+        "Tuổi": 18,
+        "Lớp": "11DHTH15",
+        "Điểm": 6.7
+    },
+    {
+        "Tên": "Ngô Thanh Sơn",
+        "Tuổi": 22,
+        "Lớp": "12DHTH06",
+        "Điểm": 10.0
+    },
+    {
+        "Tên": "Đặng Thị Lan",
+        "Tuổi": 21,
+        "Lớp": "14DHTH03",
+        "Điểm": 6.5
+    },
+    {
+        "Tên": "Nguyễn Tiến Mạnh",
+        "Tuổi": 22,
+        "Lớp": "11DHTH15",
+        "Điểm": 6.5
+    },
+    {
+        "Tên": "Nguyễn Tiến Mạnh",
+        "Tuổi": 18,
+        "Lớp": "12DHTH05",
+        "Điểm": 6.5
+    },
+    {
+        "Tên": "Trần Thị Bích",
+        "Tuổi": 22,
+        "Lớp": "13DHTH08",
+        "Điểm": 7.5
+    },
+    {
+        "Tên": "Bùi Văn Nam",
+        "Tuổi": 18,
+        "Lớp": "14DHTH03",
+        "Điểm": 6.2
+    },
+    {
+        "Tên": "Nguyễn Tiến Mạnh",
+        "Tuổi": 18,
+        "Lớp": "14DHTH03",
+        "Điểm": 5.6
+    },
+    {
+        "Tên": "Nguyễn Tiến Mạnh",
+        "Tuổi": 19,
+        "Lớp": "13DHTH02",
+        "Điểm": 8.5
+    },
+    {
+        "Tên": "Lưu Ngọc Phú",
+        "Tuổi": 21,
+        "Lớp": "11DHTH15",
+        "Điểm": 6.0
+    },
+    {
+        "Tên": "Phùng Đức Hòa",
+        "Tuổi": 19,
+        "Lớp": "14DHTH03",
+        "Điểm": 7.0
+    },
+    {
+        "Tên": "Hoàng Thị Hương",
+        "Tuổi": 21,
+        "Lớp": "12DHTH05",
+        "Điểm": 8.3
+    },
+    {
+        "Tên": "Hà Thị Ngọc",
+        "Tuổi": 21,
+        "Lớp": "14DHTH09",
+        "Điểm": 9.1
+    },
+    {
+        "Tên": "Lê Minh Phương",
+        "Tuổi": 18,
+        "Lớp": "10DHTH14",
+        "Điểm": 9.0
+    },
+    {
+        "Tên": "Đỗ Thị Hoa",
+        "Tuổi": 22,
+        "Lớp": "14DHTH03",
+        "Điểm": 10.0
+    },
+    {
+        "Tên": "Mai Hoàng Nam",
+        "Tuổi": 22,
+        "Lớp": "15DHTH04",
+        "Điểm": 8.0
+    },
+    {
+        "Tên": "Phùng Đức Hòa",
+        "Tuổi": 22,
+        "Lớp": "11DHTH04",
+        "Điểm": 9.1
+    },
+    {
+        "Tên": "Đặng Thị Lan",
+        "Tuổi": 20,
+        "Lớp": "15DHTH11",
+        "Điểm": 9.1
+    },
+    {
+        "Tên": "Phạm Quốc Khánh",
+        "Tuổi": 18,
+        "Lớp": "15DHTH04",
+        "Điểm": 10.0
+    },
+    {
+        "Tên": "Ngô Thanh Sơn",
+        "Tuổi": 21,
+        "Lớp": "10DHTH02",
+        "Điểm": 6.5
+    },
+    {
+        "Tên": "Dương Văn Tú",
+        "Tuổi": 22,
+        "Lớp": "13DHTH02",
+        "Điểm": 7.8
+    },
+    {
+        "Tên": "Trần Thị Bích",
+        "Tuổi": 19,
+        "Lớp": "15DHTH04",
+        "Điểm": 4.0
+    },
+    {
+        "Tên": "Trần Thị Bích",
+        "Tuổi": 21,
+        "Lớp": "10DHTH01",
+        "Điểm": 7.0
+    },
+    {
+        "Tên": "Nguyễn Tiến Mạnh",
+        "Tuổi": 18,
+        "Lớp": "15DHTH12",
+        "Điểm": 5.6
+    },
+    {
+        "Tên": "Mai Hoàng Nam",
+        "Tuổi": 22,
+        "Lớp": "15DHTH12",
+        "Điểm": 4.5
+    },
+    {
+        "Tên": "Ngô Thanh Sơn",
+        "Tuổi": 22,
+        "Lớp": "12DHTH01",
+        "Điểm": 5.5
+    },
+    {
+        "Tên": "Mai Hoàng Nam",
+        "Tuổi": 20,
+        "Lớp": "11DHTH03",
+        "Điểm": 9.5
+    },
+    {
+        "Tên": "Bùi Văn Nam",
+        "Tuổi": 19,
+        "Lớp": "11DHTH15",
+        "Điểm": 7.0
+    },
+    {
+        "Tên": "Nguyễn Văn An",
+        "Tuổi": 19,
+        "Lớp": "11DHTH04",
+        "Điểm": 4.0
+    },
+    {
+        "Tên": "Bùi Văn Nam",
+        "Tuổi": 22,
+        "Lớp": "10DHTH13",
+        "Điểm": 9.5
+    },
+    {
+        "Tên": "Lê Minh Phương",
+        "Tuổi": 20,
+        "Lớp": "11DHTH04",
+        "Điểm": 5.0
+    },
+    {
+        "Tên": "Bùi Văn Nam",
+        "Tuổi": 19,
+        "Lớp": "14DHTH03",
+        "Điểm": 4.0
+    },
+    {
+        "Tên": "Dương Văn Tú",
+        "Tuổi": 22,
+        "Lớp": "15DHTH04",
+        "Điểm": 6.0
+    },
+    {
+        "Tên": "Đỗ Thị Hoa",
+        "Tuổi": 18,
+        "Lớp": "12DHTH05",
+        "Điểm": 8.5
+    },
+    {
+        "Tên": "Bùi Văn Nam",
+        "Tuổi": 20,
+        "Lớp": "10DHTH02",
+        "Điểm": 9.0
+    },
+    {
+        "Tên": "Ngô Thanh Sơn",
+        "Tuổi": 19,
+        "Lớp": "13DHTH02",
+        "Điểm": 4.0
+    },
+    {
+        "Tên": "Đỗ Thị Hoa",
+        "Tuổi": 22,
+        "Lớp": "11DHTH15",
+        "Điểm": 9.1
+    },
+    {
+        "Tên": "Vũ Đức Tài",
+        "Tuổi": 20,
+        "Lớp": "15DHTH11",
+        "Điểm": 6.2
+    },
+    {
+        "Tên": "Dương Văn Tú",
+        "Tuổi": 18,
+        "Lớp": "12DHTH05",
+        "Điểm": 7.8
+    },
+    {
+        "Tên": "Phan Ngọc Dũng",
+        "Tuổi": 18,
+        "Lớp": "12DHTH06",
+        "Điểm": 6.7
+    },
+    {
+        "Tên": "Ngô Thanh Sơn",
+        "Tuổi": 20,
+        "Lớp": "13DHTH07",
+        "Điểm": 6.5
+    },
+    {
+        "Tên": "Dương Văn Tú",
+        "Tuổi": 18,
+        "Lớp": "15DHTH04",
+        "Điểm": 6.7
+    },
+    {
+        "Tên": "Trần Thị Bích",
+        "Tuổi": 19,
+        "Lớp": "15DHTH11",
+        "Điểm": 6.0
+    },
+    {
+        "Tên": "Lý Thị Thanh",
+        "Tuổi": 19,
+        "Lớp": "14DHTH09",
+        "Điểm": 7.5
+    },
+    {
+        "Tên": "Phan Ngọc Dũng",
+        "Tuổi": 20,
+        "Lớp": "14DHTH10",
+        "Điểm": 8.0
+    },
+    {
+        "Tên": "Lưu Ngọc Phú",
+        "Tuổi": 22,
+        "Lớp": "15DHTH11",
+        "Điểm": 8.5
+    },
+    {
+        "Tên": "Mai Hoàng Nam",
+        "Tuổi": 20,
+        "Lớp": "14DHTH09",
+        "Điểm": 6.2
+    },
+    {
+        "Tên": "Trần Thị Bích",
+        "Tuổi": 19,
+        "Lớp": "13DHTH08",
+        "Điểm": 4.0
+    },
+    {
+        "Tên": "Vũ Đức Tài",
+        "Tuổi": 19,
+        "Lớp": "10DHTH14",
+        "Điểm": 4.0
+    },
+    {
+        "Tên": "Hà Thị Ngọc",
+        "Tuổi": 21,
+        "Lớp": "10DHTH14",
+        "Điểm": 7.8
+    },
+    {
+        "Tên": "Phạm Quốc Khánh",
+        "Tuổi": 20,
+        "Lớp": "15DHTH04",
+        "Điểm": 6.2
+    },
+    {
+        "Tên": "Hoàng Thị Hương",
+        "Tuổi": 18,
+        "Lớp": "12DHTH05",
+        "Điểm": 7.5
+    },
+    {
+        "Tên": "Hà Thị Ngọc",
+        "Tuổi": 19,
+        "Lớp": "10DHTH05",
+        "Điểm": 8.5
+    },
+    {
+        "Tên": "Nguyễn Văn An",
+        "Tuổi": 18,
+        "Lớp": "12DHTH01",
+        "Điểm": 8.3
+    },
+    {
+        "Tên": "Lý Thị Thanh",
+        "Tuổi": 19,
+        "Lớp": "15DHTH04",
+        "Điểm": 6.2
+    },
+    {
+        "Tên": "Dương Văn Tú",
+        "Tuổi": 20,
+        "Lớp": "10DHTH05",
+        "Điểm": 9.1
+    },
+    {
+        "Tên": "Vũ Đức Tài",
+        "Tuổi": 22,
+        "Lớp": "15DHTH11",
+        "Điểm": 7.3
+    },
+    {
+        "Tên": "Nguyễn Văn An",
+        "Tuổi": 21,
+        "Lớp": "14DHTH09",
+        "Điểm": 6.7
+    },
+    {
+        "Tên": "Hoàng Thị Hương",
+        "Tuổi": 18,
+        "Lớp": "13DHTH08",
+        "Điểm": 7.0
+    },
+    {
+        "Tên": "Nguyễn Tiến Mạnh",
+        "Tuổi": 21,
+        "Lớp": "13DHTH02",
+        "Điểm": 7.5
+    },
+    {
+        "Tên": "Mai Hoàng Nam",
+        "Tuổi": 19,
+        "Lớp": "15DHTH04",
+        "Điểm": 5.5
+    },
+    {
+        "Tên": "Bùi Văn Nam",
+        "Tuổi": 20,
+        "Lớp": "12DHTH06",
+        "Điểm": 7.8
+    },
+    {
+        "Tên": "Vũ Đức Tài",
+        "Tuổi": 19,
+        "Lớp": "13DHTH08",
+        "Điểm": 5.6
+    },
+    {
+        "Tên": "Bùi Văn Nam",
+        "Tuổi": 20,
+        "Lớp": "14DHTH09",
+        "Điểm": 8.3
+    },
+    {
+        "Tên": "Nguyễn Văn An",
+        "Tuổi": 22,
+        "Lớp": "10DHTH01",
+        "Điểm": 4.5
+    },
+    {
+        "Tên": "Lê Minh Phương",
+        "Tuổi": 18,
+        "Lớp": "15DHTH04",
+        "Điểm": 8.5
+    },
+    {
+        "Tên": "Đặng Thị Lan",
+        "Tuổi": 18,
+        "Lớp": "15DHTH11",
+        "Điểm": 5.6
+    },
+    {
+        "Tên": "Mai Hoàng Nam",
+        "Tuổi": 18,
+        "Lớp": "15DHTH12",
+        "Điểm": 9.1
+    },
+    {
+        "Tên": "Đặng Thị Lan",
+        "Tuổi": 22,
+        "Lớp": "13DHTH02",
+        "Điểm": 10.0
+    },
+    {
+        "Tên": "Phan Ngọc Dũng",
+        "Tuổi": 22,
+        "Lớp": "15DHTH12",
+        "Điểm": 6.0
+    },
+    {
+        "Tên": "Phan Ngọc Dũng",
+        "Tuổi": 19,
+        "Lớp": "10DHTH02",
+        "Điểm": 7.3
+    },
+    {
+        "Tên": "Đặng Thị Lan",
+        "Tuổi": 21,
+        "Lớp": "11DHTH04",
+        "Điểm": 4.0
+    },
+    {
+        "Tên": "Phan Ngọc Dũng",
+        "Tuổi": 22,
+        "Lớp": "12DHTH05",
+        "Điểm": 9.1
+    },
+    {
+        "Tên": "Nguyễn Tiến Mạnh",
+        "Tuổi": 22,
+        "Lớp": "13DHTH02",
+        "Điểm": 7.8
+    },
+    {
+        "Tên": "Trần Thị Bích",
+        "Tuổi": 18,
+        "Lớp": "15DHTH11",
+        "Điểm": 8.5
+    }
+]
