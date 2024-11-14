@@ -1,0 +1,32 @@
+[
+    {
+        "Tên": "John Doe",
+        "Ngày Sinh": "1990-05-15",
+        "Quốc tịch": "USA",
+        "Tuỏi": 34
+    },
+    {
+        "Tên": "Anna Smith",
+        "Ngày Sinh": "1985-10-30",
+        "Quốc tịch": "UK",
+        "Tuỏi": 39
+    },
+    {
+        "Tên": "Nguyen Van A",
+        "Ngày Sinh": "1992-03-12",
+        "Quốc tịch": "Vietnam",
+        "Tuỏi": 32
+    },
+    {
+        "Tên": "Maria Garcia",
+        "Ngày Sinh": "1988-07-22",
+        "Quốc tịch": "Spain",
+        "Tuỏi": 36
+    },
+    {
+        "Tên": "Li Wei",
+        "Ngày Sinh": "1994-02-18",
+        "Quốc tịch": "China",
+        "Tuỏi": 30
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "name": "John Doe",
+        "country": "USA",
+        "date_of_birth": "1990-05-15"
+    },
+    {
+        "name": "Anna Smith",
+        "country": "UK",
+        "date_of_birth": "1985-10-30"
+    },
+    {
+        "name": "Nguyen Van A",
+        "country": "Vietnam",
+        "date_of_birth": "1992-03-12"
+    },
+    {
+        "name": "Maria Garcia",
+        "country": "Spain",
+        "date_of_birth": "1988-07-22"
+    },
+    {
+        "name": "Li Wei",
+        "country": "China",
+        "date_of_birth": "1994-02-18"
+    }
+]
